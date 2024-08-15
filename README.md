@@ -13,4 +13,8 @@ $ php artisan serve http://localhost:8000
 - php artisan db:seed
 
 ## Rodar migrations
-- php artisan migration
+- php artisan migrate
+
+## Atualizar Mix
+para funcionamento correto do projeto
+- npm run dev
